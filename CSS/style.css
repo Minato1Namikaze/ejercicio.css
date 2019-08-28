@@ -1,0 +1,27 @@
+.navegador {
+    list-style: none;
+    margin-left: 50%;
+}
+a { 
+    color: black;
+    text-decoration: none;
+
+}
+a:hover {
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+}
+#Nombres {
+    background-color: gray; 
+    color: chocolate;
+}
+.informacion {
+    color: crimson;
+}
+.secondinformacion {
+    color: brown;
+}
+#Animales {
+    border: 1px;
+}
